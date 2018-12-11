@@ -1,0 +1,126 @@
+<DOCTYPE html>
+<html>
+
+<head>
+
+<link rel= "stylesheet" type ="text/css" href="style.css">
+
+
+
+<style>
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial;
+}
+
+.header {
+    text-align: center;
+    padding: 32px;
+}
+
+.row {
+    display: -ms-flexbox; /* IE10 */
+    display: flex;
+    -ms-flex-wrap: wrap; /* IE10 */
+    flex-wrap: wrap;
+    padding: 0 4px;
+}
+
+/* Create four equal columns that sits next to each other */
+.column {
+    -ms-flex: 25%; /* IE10 */
+    flex: 25%;
+    max-width: 25%;
+    padding: 0 4px;
+}
+
+.column img {
+    margin-top: 8px;
+    vertical-align: middle;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+    .column {
+        -ms-flex: 50%;
+        flex: 50%;
+        max-width: 50%;
+    }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+    .column {
+        -ms-flex: 100%;
+        flex: 100%;
+        max-width: 100%;
+    }
+}
+</style>
+
+
+</head>
+
+<body>
+  <h1>Jasmine Edwards</h1>
+<div class="topnav">
+  <a class="family" href="family.html">Family</a>
+  <a href="school.html">School</a>
+  <a href="hobbies.html">Hobbies</a>
+</div>
+
+<div class="header">
+
+  <h1>About Me</h1>
+</div>
+
+<div class="text1">
+<p> I am a 17yr old Junior at Bentley Upper School in Lafayette, CA. </p>
+</div>
+
+<!-- Photo Grid -->
+<div class="row"> 
+  <div class="column">
+    <img src="child.jpg" style="width:100%">
+    <img src="sweet.PNG" style="width:100%">
+
+  </div>
+
+ <div class="column">
+  <img src="jacket.jpg" style="width:100%">
+  <img src="aboutme.jpg" style="width:100%">
+  </div>  
+  <div class="column">
+    <img src="brick.jpg" style="width:100%">
+    <img src="model.jpg" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="mommas.PNG" style="width:100%">
+    <img src="childmodel.jpg" style="width:100%">
+    <img src="homepage.jpg" style="width:100%">
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+
+
+
+</html>
