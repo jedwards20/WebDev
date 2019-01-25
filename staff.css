@@ -1,0 +1,74 @@
+*{
+	font-family: 'Poiret One';
+	background-color: #e894ca;
+	color:white;
+	font-size: 20px;
+}
+
+
+
+h1{
+	font-size: 35px;
+}
+
+
+	  
+.logo{
+ display: block;
+  margin-left: 42.5%;
+  margin-right: 60%;
+  width: 35%;
+}
+  
+
+
+
+.menuhome
+{
+
+	text-align: center;
+}
+
+.address
+{
+	text-align: center;
+}
+
+.line
+{
+	border: 2px solid;
+	border-color: white;
+	
+	margin: 50px;
+	padding: 30px;
+	
+	 border-top-style: solid;
+  border-right-style: hidden;
+  border-bottom-style: hidden;
+  border-left-style: hidden;
+  width: 90%;
+}
+
+
+
+
+.hour
+{
+	text-align: center;
+}
+
+.reserve, .phone,.staff, .menu, .otherqs,.home{
+text-align:center;
+}
+
+
+
+.people
+{
+	font-size: 50px;
+
+}
+
+
+
+

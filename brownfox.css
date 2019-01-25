@@ -1,0 +1,46 @@
+*
+{
+
+
+}
+
+.quick
+{
+	
+
+	color: #ffffff;
+
+	
+}
+
+.float
+{
+	float:left;
+
+border: 5px solid;
+	border-color: yellow;
+	background-color: pink;
+	margin: 50px;
+	padding: 30px;
+	border-style: dotted;
+
+
+}
+
+.lazy
+{
+	color:blue;
+}
+
+.overlay{
+	border:15px solid;
+	border-color: green;
+	padding: 60px;
+	margin: 30px;
+	width: 3%;
+	left: 60px;
+	float: left;
+	position:fixed;
+
+
+}

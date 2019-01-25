@@ -1,0 +1,82 @@
+
+
+
+
+
+
+
+img
+{
+	
+}
+
+.top
+{
+position: fixed;
+	width: 2000px;
+  border: 25px solid blue;
+  padding: 2px;
+  margin: -10px;
+  background-color:blue;
+}
+
+.line
+{
+	width: 230px;
+  border: 15px solid green;
+  padding: 10px;
+  margin-right: 0px;
+  margin-left: 300px;
+  margin-top: 300px;
+  background-color:green;
+
+}
+
+#button{
+  width: 0px;
+  padding: 100px;
+  margin-right: -4px;
+  margin-left: 200px;
+  background-color:pink;
+  margin-top:-100px ;
+
+}
+
+#button2{
+  width: 0px;
+  padding: 100px;
+  margin-right: -4px;
+  margin-left: 500px;
+  background-color:red;
+  margin-top:-250px;
+  
+}
+
+.loren{
+  width: 230px;
+  border: 15px solid green;
+  padding: 10px;
+  margin-right: 0px;
+  margin-left: 10px;
+  margin-top: 50px;
+  background-color:green;
+  float: left;
+}
+
+
+.loren2{
+  width: 230px;
+  border: 15px solid green;
+  padding: 10px;
+  margin-right: 0px;
+  margin-left: 350px;
+  margin-bottom: 800px;
+  background-color:green;
+   float: left;
+}
+
+
+
+
+
+

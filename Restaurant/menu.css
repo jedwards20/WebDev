@@ -1,0 +1,72 @@
+*
+{
+	font-family: 'Poiret One';
+	background-color: pink;
+	font-size: 12px;
+	color: white;
+
+}
+
+
+
+
+.botana{
+	font-size:12px;
+	font-weight: bold;}
+
+
+h2{
+
+}
+
+
+
+.middle .left .right
+{
+	text-align: right;
+	float:left;
+	width: 30%;
+}
+
+.logo
+{
+
+	scale: 50%;
+
+	  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 14%;
+}
+}
+
+h1
+{
+	text-align: center;
+
+}
+.Home
+{
+	border: 2px solid;
+	border-color: white;
+	text-align: center;
+	border-top-style: hidden;
+	border-right-style: solid;
+	border-bottom-style: hidden;
+ 	border-left-style: hidden;
+}
+
+.line
+{
+	border: 2px solid;
+	border-color: white;
+	
+	margin: 50px;
+	padding: 30px;
+	
+	 border-top-style: solid;
+  border-right-style: hidden;
+  border-bottom-style: hidden;
+  border-left-style: hidden;
+  width: 90%;
+}

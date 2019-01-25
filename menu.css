@@ -1,0 +1,141 @@
+*
+{
+	font-family: 'Poiret One';
+	background-color: #e894ca;
+	font-size: 20px;
+	color: white;
+
+}
+
+
+div{
+	defaults
+}
+
+
+
+
+h2{
+text-align: left;
+font-size: 20px;
+ font-weight: 900;
+}
+
+
+
+.middle, .right
+{
+	text-align: left;
+	float:left;
+	width: 230px;
+	margin: 5px;
+	padding: 5px;
+	
+}
+
+.left
+{
+	text-align: left;
+	float:left;
+	width: 30%;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+
+
+.gua
+{
+	text-align: left;
+	float:center;
+	width: 30%;
+	border: 2px solid;
+	border-color: white;
+	border-top-style: solid;
+	border-right-style: hidden;
+	border-bottom-style: hidden;
+ 	border-left-style: hidden;
+}
+
+
+.fuerta{
+	text-align: left;
+	float:center;
+	width: 30%;
+	border: 2px solid;
+	border-color: white;
+	border-top-style: solid;
+	border-right-style: hidden;
+	border-bottom-style: hidden;
+ 	border-left-style: hidden;
+ 	padding:10px;
+}
+}
+
+.logo
+{
+
+	scale: 100%;
+
+	
+  margin-left: auto;
+  margin-right: auto;
+  width: 14%;
+}
+
+
+h1
+{
+text-align: center;
+font-size: 40px;
+}
+
+
+.Home
+{
+	border: 2px solid;
+	border-color: white;
+	text-align: center;
+	border-top-style: hidden;
+	border-right-style: solid;
+	border-bottom-style: hidden;
+ 	border-left-style: hidden;
+}
+
+.line
+{
+	border: 2px solid;
+	border-color: white;
+	
+	margin: 50px;
+	padding: 30px;
+	
+	 border-top-style: solid;
+  border-right-style: hidden;
+  border-bottom-style: hidden;
+  border-left-style: hidden;
+  width: 90%;
+}
+
+.sopa
+{
+text-align: left
+font-size: 40px;
+text-align: left;
+float:left;
+width: 230px;
+margin: 5px;
+padding: 5px;
+border: 2px solid;
+	border-color: white;
+	border-top-style: hidden;
+	border-bottom-style: hidden;
+ 	border-left-style: solid;
+ 	border-right-style: hidden;
+padding:20px;
+}
+
+
+.reserve, .phone, .address, .hour, .staff, .otherqs{
+text-align:center;
+}

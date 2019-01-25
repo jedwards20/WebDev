@@ -1,0 +1,109 @@
+*
+{
+	font-family: 'Poiret One';
+	background-color: #e894ca;
+	color:white;
+	font-size: 20px;
+	box-sizing: border-box;
+}
+
+
+
+
+
+
+
+img{
+	margin-right: auto;
+	margin-left: auto;
+	scale: 100%;
+	width: 40%;
+	
+
+ }
+
+
+
+}
+
+
+
+
+
+	  
+  .logo
+{
+ display: block;
+  margin-left: 42.5%;
+  margin-right: 60%;
+  width: 35%;
+  
+}
+
+
+.menuhome
+{
+
+	text-align: center;
+}
+
+.address
+{
+	text-align: center;
+}
+
+.line
+{
+	border: 2px solid;
+	border-color: white;
+	
+	margin: 50px;
+	padding: 30px;
+	
+	 border-top-style: solid;
+  border-right-style: hidden;
+  border-bottom-style: hidden;
+  border-left-style: hidden;
+  width: 90%;
+}
+
+
+.row
+{
+	
+
+	padding: 10px;
+	max-width: 100%;
+	margin-left: auto;
+	margin-right:auto;
+
+
+	
+
+
+
+}
+
+
+.column {
+
+  width: 33.33%;
+  padding: 5px;
+
+}
+
+.hour
+{
+	text-align: center;
+}
+
+.reserve, .phone,.staff, .otherqs{
+text-align:center;
+}
+
+
+
+
+
+
+
